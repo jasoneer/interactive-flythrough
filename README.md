@@ -24,20 +24,20 @@ Libraries Used:
 
 INSTALLATION:
 - Prerequisites:
-	SDL 1.2.15
+-	SDL 1.2.15
 
 - Mac/Linux:
-	initial clone (one time): 	make init
-	on x64 platforms:			make
-	on x86 platforms:			make x86
-	remove binary/objs:			make clean
+-	initial clone (one time): 	make init
+-	on x64 platforms:			make
+-	on x86 platforms:			make x86
+-	remove binary/objs:			make clean
 
 - Windows:
-	To Come
+-	To Come
 
 USAGE:
 - From command line of Makefile:
- 	bin/flythrough
+- 	bin/flythrough
 
 CONTACT:
 - Jason Hsu <jlhsu@ucdavis.edu>
