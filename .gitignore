@@ -15,3 +15,12 @@
 *.exe
 *.out
 *.app
+
+# Mac OS X
+.DS_Store
+
+# Project
+bin/*
+!bin/libLeap.so
+!bin/libLeap.dylib
+!bin/libLeapx86.so
